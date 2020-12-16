@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name IPW60R024CFD7XKSA1)(type Legacy)(uri ${KIPRJMOD}/lib/IPW60R024CFD7XKSA1.lib)(options "")(descr ""))
+  (lib (name GBJ5010-BP)(type Legacy)(uri ${KIPRJMOD}/lib/GBJ5010-BP.lib)(options "")(descr ""))
+  (lib (name relays)(type Legacy)(uri ${KIPRJMOD}/lib/relays.lib)(options "")(descr ""))
+  (lib (name hardware-cache)(type Legacy)(uri ${KIPRJMOD}/hardware-cache.lib)(options "")(descr ""))
+  (lib (name 5mmscrew_terminal)(type Legacy)(uri ${KIPRJMOD}/lib/5mmscrew_terminal.lib)(options "")(descr ""))
+)

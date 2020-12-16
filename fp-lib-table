@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name screw_terminal5mm)(type KiCad)(uri ${KIPRJMOD}/lib/screw_terminal5mm.pretty)(options "")(descr ""))
+  (lib (name GBJ5010)(type KiCad)(uri ${KIPRJMOD}/lib/GBJ5010.pretty)(options "")(descr ""))
+)

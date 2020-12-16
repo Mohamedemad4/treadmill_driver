@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 5mmScrewTerminal
+#
+DEF 5mmScrewTerminal C 0 40 Y Y 1 F N
+F0 "C" 0 0 50 H V C CNN
+F1 "5mmScrewTerminal" 0 0 50 H V C CNN
+F2 "screw_terminal5mm:Screw_terminal_5mm" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C -100 200 25 1 1 6 N
+C -100 300 25 1 1 6 N
+C -100 400 25 1 1 6 N
+C -100 500 25 1 1 6 N
+C -100 600 25 1 1 6 N
+S -150 650 -50 150 1 1 10 f
+P 2 1 1 6 -121 213 -87 180 N
+P 2 1 1 6 -121 313 -87 280 N
+P 2 1 1 6 -121 413 -87 380 N
+P 2 1 1 6 -121 513 -87 480 N
+P 2 1 1 6 -121 613 -87 580 N
+P 2 1 1 6 -114 220 -80 187 N
+P 2 1 1 6 -114 320 -80 287 N
+P 2 1 1 6 -114 420 -80 387 N
+P 2 1 1 6 -114 520 -80 487 N
+P 2 1 1 6 -114 620 -80 587 N
+X Pin_1 1 -300 600 150 R 50 50 1 1 P
+X Pin_2 2 -300 500 150 R 50 50 1 1 P
+X Pin_3 3 -300 400 150 R 50 50 1 1 P
+X Pin_4 4 -300 300 150 R 50 50 1 1 P
+X Pin_5 5 -300 200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
