@@ -291,4 +291,18 @@ Text GLabel 4300 1600 1    50   Input ~ 0
 CONTROL_ACMotorBlack
 Text GLabel 4500 1600 1    50   Input ~ 0
 CONTROL_ACMotorRed
+$Comp
+L Device:R R1
+U 1 1 5FDB3271
+P 5400 3450
+F 0 "R1" H 5470 3496 50  0000 L CNN
+F 1 "10k" H 5470 3405 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5330 3450 50  0001 C CNN
+F 3 "~" H 5400 3450 50  0001 C CNN
+	1    5400 3450
+	1    0    0    -1  
+$EndComp
+Connection ~ 5400 3300
+Text GLabel 5400 3600 3    50   Input ~ 0
+DCGND
 $EndSCHEMATC
