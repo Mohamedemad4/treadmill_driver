@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 3)
+    (drawings 2)
     (tracks 0)
     (zones 0)
     (modules 13)
@@ -563,7 +563,7 @@
   )
 
   (module screw_terminal5mm:Screw_terminal_5mm (layer F.Cu) (tedit 603F2BDE) (tstamp 603FC3D7)
-    (at 113.57 129.96)
+    (at 120.72 130.86)
     (path /5FDD2A4A)
     (fp_text reference C5 (at 0 0.5) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -882,7 +882,7 @@
   )
 
   (module Package_TO_SOT_THT:TO-220-3_Vertical (layer F.Cu) (tedit 5AC8BA0D) (tstamp 603FA565)
-    (at 83.625001 51.405001)
+    (at 79.97 53.66)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (path /5FD92CAF)
@@ -926,7 +926,6 @@
     )
   )
 
-  (gr_circle (center 97.9 69.275) (end 115.4 69.275) (layer Dwgs.User) (width 0.15))
   (dimension 100.35 (width 0.15) (layer Dwgs.User)
     (gr_text "100.350 mm" (at 103.325 146.35) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
